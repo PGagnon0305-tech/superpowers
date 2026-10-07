@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "forgegui": {
+      "source": {
+        "source": "github",
+        "repo": "elwinhe/forgegui-plugins"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "mcp@forgegui": true
+  }
+}
